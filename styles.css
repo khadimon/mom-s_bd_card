@@ -9,6 +9,7 @@ body {
     position: relative;
     font-family: 'Waltograph', 'Dancing Script', cursive;
     padding: 2rem 1rem;
+    justify-content: center;
 }
 
 .magical-sparkles {
@@ -38,7 +39,7 @@ body {
     backdrop-filter: blur(5px);
     width: 95%;
     max-width: 1200px;
-    margin: 3rem auto;
+    margin: 0 auto;
     border: 3px solid #99CCFF;
 }
 
@@ -443,7 +444,7 @@ body {
 .wishes-container {
     width: 95%;
     max-width: 1200px;
-    margin: 4rem auto;
+    margin: 0 auto;
     background: rgba(255, 255, 255, 0.9);
     border: 3px solid #99CCFF;
     box-shadow: 0 0 30px rgba(153,204,255,0.5);
@@ -626,7 +627,7 @@ html[lang="ru"] .wish-list:empty:before {
 .video-container {
     width: 95%;
     max-width: 1200px;
-    margin: 4rem auto;
+    margin: 0 auto;
     padding: 1.5rem;
     position: relative;
     background: rgba(255, 255, 255, 0.9);
